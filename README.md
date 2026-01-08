@@ -13,6 +13,9 @@
 -  Просмотр портфеля с красивыми таблицами
 -  Автоматическое обновление курсов
 
+## Клонирование репозитария
+- git clone https://github.com/ksenofkv/final_project_Ksenofontov_Konstantin_M25-555.git
+
 ## Структура проекта
 
 ```
