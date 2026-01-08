@@ -60,13 +60,15 @@ valutatrade_hub/
 
 
 ### API_KEY
-Для начала зарегистрируйтесь на сайте [exchangerate-api.com](https://www.exchangerate-api.com/) и получите ключ к API.
- EXCHANGERATE_API_KEY="6eb2459ea00a33c77ac55b54"
+
+- Для начала зарегистрируйтесь на сайте [exchangerate-api.com](https://www.exchangerate-api.com/) и получите ключ к API.
+- EXCHANGERATE_API_KEY="6eb2459ea00a33c77ac55b54"
 ---
 
-Задайте переменную среды:                      Пример
-export EXCHANGERATE_API_KEY="api_key"          export EXCHANGERATE_API_KEY=6eb2459ea00a33c77ac55b54           
-где `"api_key"` - это ваш ключ к API.
+Задайте переменную среды:                      
+- export EXCHANGERATE_API_KEY="api_key"                    
+- где `"api_key"` - это ваш ключ к API.
+- Пример: export EXCHANGERATE_API_KEY="6eb2459ea00a33c77ac55b54"
 ---
 
 ### Установка
