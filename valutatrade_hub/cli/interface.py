@@ -299,7 +299,7 @@ class CLIInterface:
         print("  help")
         print("  exit")
         print("\nПримеры:")
-        print("  register --username Ford --password 123")
+        print("  register --username Ford --password 1234")
         print("  buy --currency BTC --amount 0.1")
         print("  get-rate --from USD --to BTC")
         print("  update-rates --source coingecko")
